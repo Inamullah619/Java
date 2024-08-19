@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class calculator {
+    // Calculator
     static int plus(int x , int y) {
         return x + y;
     }

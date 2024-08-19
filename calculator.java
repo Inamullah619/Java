@@ -39,7 +39,7 @@ public class calculator {
             int result = divide(num1, num2);
             System.out.println("Result: " + result);
         } else {
-            System.out.println("Invalid operation. Please enter 'plus' or 'minus'.");
+            System.out.println("Invalid operation.");
         }
          
 

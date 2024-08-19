@@ -1,9 +1,5 @@
 public class AadheeShah {
 
-    // public static void main(String[] args) {
-    //     String name = "https://google.com";
-    //     System.out.println(name.lastIndexOf("."));
-    // }
     public static void main(String[] args) {
         String domain = "https://www.google.com";
         int dot = domain.lastIndexOf(".");
